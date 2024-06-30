@@ -14,3 +14,6 @@ conda activate mchat2
 pip install -r requirements.txt
 '''
 
+'''bash
+
+'''
